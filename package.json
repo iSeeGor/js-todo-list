@@ -1,0 +1,23 @@
+{
+  "name": "todo_js",
+  "version": "1.0.0",
+  "description": "Javascript todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSeeGor/js-todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSeeGor/js-todo-list/issues"
+  },
+  "homepage": "https://github.com/iSeeGor/js-todo-list#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.0.0"
+  }
+}

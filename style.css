@@ -1,0 +1,13 @@
+.root {
+	padding: 60px 0;
+}
+
+.calls-content__footer {
+	display: flex;
+	justify-content: center;
+}
+
+.calls-content .btn{
+	margin: 0 15px;
+	min-width: 100px;
+}
